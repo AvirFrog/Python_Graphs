@@ -1,2 +1,7 @@
 # Python_Graphs
- Some Graphs in python
+
+## Info
+
+Graphs in python & algorithms to solve graph problems
+
+
